@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>610947733999-bsruqd8etc3rp8ifkeef5rn3uvfdre36.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.610947733999-bsruqd8etc3rp8ifkeef5rn3uvfdre36</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>610947733999-hmeb5ghs9it30v8pa16949rb3p6s20ja.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYW9nqrm0PDLtRAeseCX_xYbn4FlRbTrA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>610947733999</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pingooLearnAssignment</string>
+	<key>PROJECT_ID</key>
+	<string>pingo-learn-462cf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pingo-learn-462cf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:610947733999:ios:916ca120e453a952a87e1a</string>
+</dict>
+</plist>

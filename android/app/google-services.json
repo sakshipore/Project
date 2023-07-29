@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "610947733999",
+    "project_id": "pingo-learn-462cf",
+    "storage_bucket": "pingo-learn-462cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610947733999:android:262fb4633bdc5070a87e1a",
+        "android_client_info": {
+          "package_name": "com.example.pingoo_learn_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610947733999-hmeb5ghs9it30v8pa16949rb3p6s20ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pingoo_learn_assignment",
+            "certificate_hash": "d1ca5d181eb19d8ec7b30eaca616460e90a7d2ec"
+          }
+        },
+        {
+          "client_id": "610947733999-ssjfpilf8ah7tdfaoa00pun31ap19lf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pingoo_learn_assignment",
+            "certificate_hash": "e66b5a8715e430d101d44674abc65cf49613ac3a"
+          }
+        },
+        {
+          "client_id": "610947733999-4g9ksghph9cok66s250l47u6q3eie0vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2nOsmsoh12ScJUS7uiOFyWQ9O4WPoX2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610947733999-4g9ksghph9cok66s250l47u6q3eie0vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610947733999-bsruqd8etc3rp8ifkeef5rn3uvfdre36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pingooLearnAssignment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
